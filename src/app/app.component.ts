@@ -3,7 +3,8 @@ import {TestComponent} from './test.component'
 @Component({
   selector: 'my-app',
   template: `
-  <h1>Chao {{name}}</h1>
+  <h1>Chao</h1>
+  <test></test>
   
   `,
 })
